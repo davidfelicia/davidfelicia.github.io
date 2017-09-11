@@ -130,7 +130,6 @@ a:hover {
     vertical-align: middle
 }
 .masthead .intro-body .brand-heading {
-    font-family: 'Indie Flower', cursive;
     font-size: 50px
 }
 .masthead .intro-body .intro-text {
@@ -142,6 +141,7 @@ a:hover {
         padding: 0
     }
     .masthead .intro-body .brand-heading {
+         font-family: 'Indie Flower', cursive;
         font-size: 100px
     }
     .masthead .intro-body .intro-text {
