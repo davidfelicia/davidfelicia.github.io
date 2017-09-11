@@ -122,7 +122,8 @@ a:hover {
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
-    background-size: cover
+    background-size: cover;
+    font-family: 'Indie Flower', cursive;
 }
 .masthead .intro-body {
     display: table-cell;
